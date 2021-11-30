@@ -1,0 +1,10 @@
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\bin\Debug\PobeliatskyiKPZ.exe.config
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\bin\Debug\PobeliatskyiKPZ.exe
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\bin\Debug\PobeliatskyiKPZ.pdb
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.csprojAssemblyReference.cache
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.Form1.resources
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.Properties.Resources.resources
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.csproj.GenerateResource.cache
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.csproj.CoreCompileInputs.cache
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.exe
+C:\Users\ыае\source\repos\PobeliatskyiKPZ\PobeliatskyiKPZ\obj\Debug\PobeliatskyiKPZ.pdb
